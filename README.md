@@ -8,16 +8,23 @@
 ---
 
 ## 🛠️ Tech Stack
-- HTML | CSS | SCSS | JavaScript (DOM, ES6+)
+- HTML | CSS | SCSS | JavaScript (ES6+, DOM)
 - Node.js (basics), n8n, OpenAI LLMs
 - React (in progress), Git & GitHub
 
 ---
 
-## 💼 Projects
-- 🔨 [TO-DO List App](https://github.com/Hasnan42/todo-list) — Beautiful task manager with progress bar & confetti
-- 🔧 n8n Workflows — Automated Gmail → Google Sheets → OpenAI replies (WIP)
-- 💡 More coming soon...
+## 💼 Projects I've Built
+
+### 🔨 UI + Logic Based Projects
+- 🎯 [To-Do List App](https://github.com/Hasnan42/todo-list) — Beautiful task tracker with live progress and confetti
+- 🟢 [Bubble Pop Game](https://github.com/Hasnan42/bubble-game) — Pop the correct number before time runs out!
+- 🧠 [Simon Says Game](https://github.com/Hasnan42/simon-says) — Classic memory challenge using JS & event listeners
+- 🏏 [Cricket Website](https://github.com/Hasnan42/cricket-website) — Static site for cricket fans (HTML + CSS basics)
+
+### 🤖 Automation Projects
+- ✉️ Gmail to Google Sheets with Auto-Reply — (Coming Soon, built using `n8n`, `OpenAI`)
+- 📊 Smart Lead Generation System — (Planned)
 
 ---
 
@@ -37,4 +44,5 @@
 
 ---
 
-> 💡 *“Consistency is more important than talent. Keep building.”*
+> 💡 “Consistency is more important than talent. Keep building.”
+
